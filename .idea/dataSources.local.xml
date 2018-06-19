@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="mxonline@localhost" uuid="d56405af-4777-41cb-8e3c-78da7cda6490">
+    <data-source name="mx_online@localhost" uuid="79d02611-66a5-482e-b940-2730a22c4a1f">
       <database-info product="MySQL" version="5.7.21" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
         <extra-name-characters>#@</extra-name-characters>
         <identifier-quote-string>`</identifier-quote-string>
@@ -9,7 +9,7 @@
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
       <secret-storage>master_key</secret-storage>
       <user-name>root</user-name>
-      <introspection-schemas>*:mxonline</introspection-schemas>
+      <introspection-schemas>*:mx_online</introspection-schemas>
     </data-source>
   </component>
 </project>
